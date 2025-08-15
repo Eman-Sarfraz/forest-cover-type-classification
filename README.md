@@ -26,6 +26,8 @@ Features include elevation, aspect, slope, soil type, and wilderness area.
 5. Model evaluation (classification report, confusion matrix, ROC curve)
 6. Feature importance visualization
 7. Hyperparameter tuning for improved performance
+
+
 📈 ## **Visualizations**
 - Confusion Matrix for model performance comparison
 - ROC Curve comparison across models
